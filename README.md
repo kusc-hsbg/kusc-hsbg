@@ -66,9 +66,9 @@ I created this GitHub to contribute to cybersecurity. We are also preparing to c
 #### 👨‍👩‍👦‍👦 Team
 | Project | Detail |
 |---|---|
- | WHS &nbsp;| [RL AEG] 완료(23.09. ~ 24.05.)          |
- | 유니티_1 &nbsp;| [The Crazy Chess] 개발 중(24.06. ~ 26.12.(예정)                  |
- | 구름  &nbsp; | [CS와 RL를 연결한 프로젝트] 준비 중(24.08. ~ 24.11.)      |
+ | WHS &nbsp;| [RL AEG] Done(23.09. ~ 24.05.)                                     |
+ | Unity &nbsp;| [The Crazy Chess] Under development (24.06. ~ 26.12. (scheduled) |
+ | 9oorm &nbsp; | [Project linking CS and RL] In preparation (24.08. ~ 24.11.)    |
 
 #### 🙎‍♂️ Commercialization
 | Project | Detail |
