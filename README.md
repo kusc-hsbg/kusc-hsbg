@@ -52,11 +52,11 @@ I created this GitHub to contribute to cybersecurity. We are also preparing to c
 ### 🎥 Histories <br>  
 | Period          | Achievement      | Institution                  |
 |-----------------|------------------|------------------------------|
-| 22.09. ~ 25.06. | KHCU Graduation  | Kyung Hee Cyber University   |
+| 22.09. ~ 24.12. | KHCU Graduation  | Kyung Hee Cyber University   |
 | 23.04. ~ 24.03. | WHS Completion   | WhiteHat School              |
 | 24.04. ~ 24.11. | 9oorm in progress| 9oorm Training               |
 | 24.xx. ~ 2x.xx. | Preparing Nexters| Nexters                      |
-| 25.12. ~ 27.xx. | Preparing Korea University | Korea Univ. Grad. School of Smart Security |
+| 24.12. ~ 25.xx. | Preparing Korea University | Korea Univ. Grad. School of Smart Security |
 | 26.06. ~ 27.03. | Preparing BoB    | Best of the Best             |
 | 27.xx. ~ 2x.xx. | Preparing Upside Academy | Upside Academy       |
 
